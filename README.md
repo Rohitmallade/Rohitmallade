@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Mallade</h1>
 <h3 align="center">A passionate Data Scientist!!</h3>
 
-- 🔭 I’m worked with Infosys on [Visual-Dashboard-for-an-enterprise](https://github.com/Rohitmallade/Visual-Dashboard-for-an-enterprise)
+- 🔭 I have worked with Infosys on [Visual-Dashboard-for-an-enterprise](https://github.com/Rohitmallade/Visual-Dashboard-for-an-enterprise)
 
 - 🌱 I’m currently learning **Data Analysis**
 
